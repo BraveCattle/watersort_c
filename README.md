@@ -1,5 +1,7 @@
 ### Description
-A simple water sort game.
+A simple water sort game written in C using raylib library.
+
+![](assets/watersort.png)
 
 ### Environments and Pre-requisites
 Environments:
